@@ -17,3 +17,5 @@ export * from "./middlewares/ValidatorResponse";
 export * from "./utils/domain";
 
 export * from "./message-broker/MessageBroker";
+
+export * from "./database/DatabaseService";
